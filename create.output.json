@@ -1,0 +1,180 @@
+{
+    "Destinations" : [ 
+        {
+            "TotalPrice" : 696.0000000000000000,
+            "destination" : "LIS-sky",
+            "Quotes" : [ 
+                {
+                    "MinPrice" : 266.0000000000000000,
+                    "QuoteId" : 3,
+                    "Direct" : false,
+                    "OutboundLeg" : {
+                        "CarrierIds" : [ 
+                            1324
+                        ],
+                        "DestinationId" : 65747,
+                        "OriginId" : 67662,
+                        "DepartureDate" : "2016-09-10T00:00:00"
+                    },
+                    "QuoteDateTime" : "2016-09-02T08:55:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            838
+                        ],
+                        "DestinationId" : 67662,
+                        "OriginId" : 65747,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }, 
+                {
+                    "MinPrice" : 145.0000000000000000,
+                    "QuoteId" : 4,
+                    "Direct" : false,
+                    "QuoteDateTime" : "2016-09-04T19:02:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            7
+                        ],
+                        "DestinationId" : 65655,
+                        "OriginId" : 65747,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }, 
+                {
+                    "MinPrice" : 285.0000000000000000,
+                    "QuoteId" : 3,
+                    "Direct" : false,
+                    "QuoteDateTime" : "2016-09-04T19:00:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            7
+                        ],
+                        "DestinationId" : 47493,
+                        "OriginId" : 65747,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }
+            ]
+        }, 
+        {
+            "TotalPrice" : 401.0000000000000000,
+            "destination" : "PARI-sky",
+            "Quotes" : [ 
+                {
+                    "MinPrice" : 121.0000000000000000,
+                    "QuoteId" : 1,
+                    "Direct" : true,
+                    "OutboundLeg" : {
+                        "CarrierIds" : [ 
+                            885
+                        ],
+                        "DestinationId" : 44759,
+                        "OriginId" : 67662,
+                        "DepartureDate" : "2016-09-10T00:00:00"
+                    },
+                    "QuoteDateTime" : "2016-09-04T22:51:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            885
+                        ],
+                        "DestinationId" : 67662,
+                        "OriginId" : 44759,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }, 
+                {
+                    "MinPrice" : 45.0000000000000000,
+                    "QuoteId" : 2,
+                    "Direct" : true,
+                    "QuoteDateTime" : "2016-09-03T23:32:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            7
+                        ],
+                        "DestinationId" : 65655,
+                        "OriginId" : 44759,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }, 
+                {
+                    "MinPrice" : 235.0000000000000000,
+                    "QuoteId" : 4,
+                    "Direct" : false,
+                    "QuoteDateTime" : "2016-09-05T03:14:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            7
+                        ],
+                        "DestinationId" : 47493,
+                        "OriginId" : 73097,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }
+            ]
+        }, 
+        {
+            "TotalPrice" : 385.0000000000000000,
+            "destination" : "AMS-sky",
+            "Quotes" : [ 
+                {
+                    "MinPrice" : 116.0000000000000000,
+                    "QuoteId" : 1,
+                    "Direct" : true,
+                    "OutboundLeg" : {
+                        "CarrierIds" : [ 
+                            1324
+                        ],
+                        "DestinationId" : 40595,
+                        "OriginId" : 67662,
+                        "DepartureDate" : "2016-09-10T00:00:00"
+                    },
+                    "QuoteDateTime" : "2016-09-04T19:41:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            1324
+                        ],
+                        "DestinationId" : 67662,
+                        "OriginId" : 40595,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }, 
+                {
+                    "MinPrice" : 50.0000000000000000,
+                    "QuoteId" : 3,
+                    "Direct" : true,
+                    "QuoteDateTime" : "2016-09-04T19:56:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            7
+                        ],
+                        "DestinationId" : 66270,
+                        "OriginId" : 40595,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }, 
+                {
+                    "MinPrice" : 219.0000000000000000,
+                    "QuoteId" : 3,
+                    "Direct" : false,
+                    "OutboundLeg" : {
+                        "CarrierIds" : [ 
+                            1384
+                        ],
+                        "DestinationId" : 40595,
+                        "OriginId" : 47493,
+                        "DepartureDate" : "2016-09-10T00:00:00"
+                    },
+                    "QuoteDateTime" : "2016-09-04T21:35:00",
+                    "InboundLeg" : {
+                        "CarrierIds" : [ 
+                            1384
+                        ],
+                        "DestinationId" : 47493,
+                        "OriginId" : 40595,
+                        "DepartureDate" : "2016-09-12T00:00:00"
+                    }
+                }
+            ]
+        }
+    ]
+}
